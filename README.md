@@ -11,7 +11,7 @@ I'm **Herdinsyah Anhar El Hakim**, you can call me Anhar
 <p align="left">
 <a href="https://github.com/elherdin">
   <a href="https://github.com/elherdin"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=elherdin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=elherdin&layout=compact&theme=algolia&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=elherdin&layout=compact&theme=algolia&hide=html,css,hack"/>
 </a>
 </p>
 
